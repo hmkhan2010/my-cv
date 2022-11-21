@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.clear{
+    overflow: hidden;
+}
+body{
+    background: #fdeeee;
+    font-family: roboto;
+}
+
+.container{
+    background: #dfedfc;
+    width: 800px; 
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.header{
+    background: #157174;
+}
+
+.image{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid black;
+    float: left;
+}
+
+.name{
+    float: left;
+    padding: 30px;
+}
+
+.name h1{
+    font-size: 25px;
+    text-shadow: 1.5px 1.5px black;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #157174;
+}
+
+.contact{
+    float: right;
+    padding: 33px 5px;
+}
+
+.contact p{
+    color: #157174;
+    font-weight: bold;
+}
+.contact a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #157174;
+}
+
+.contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+
+.div-clear{
+    clear: both;
+}
+
+hr{
+    border: 3px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+
+
+/*personal Information Start here*/
+
+.main-section{
+  
+}
+
+.content{
+    
+}
+
+.left-side{
+    width: 30%;
+    float: left;
+}
+
+.left-side h2{
+    margin-top: 75px;
+    color: #254546;
+}
+
+.right-side{
+    width: 70%;
+    float: right;
+}
+
+.right-side p{
+    float: left;
+    margin-left: 190px;
+    color: #254546;
+}
+
+.footer{
+    background: #157174;
+    text-align: center;
+}
+
+.footer a i{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.footer a i:hover{
+    background: #254546;
+    border-radius: 50%;
+    padding: 6px 8px;
+    text-align: center;
+    color: aqua;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
